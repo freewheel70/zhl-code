@@ -1,0 +1,1 @@
+### A dummy C# project, used as code snippet reference in another doc repo.
